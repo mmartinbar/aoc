@@ -9,3 +9,4 @@ Advent of Code solutions
 * day4: Bash
 * day5: Java
 * day6: Groovy
+* day7: Python
