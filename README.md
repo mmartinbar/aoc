@@ -12,3 +12,4 @@ Advent of Code solutions
 * day07: Python
 * day08: PHP
 * day09: Kotlin
+* day10: Haskell
