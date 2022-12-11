@@ -13,3 +13,4 @@ Advent of Code solutions
 * day08: PHP
 * day09: Kotlin
 * day10: Haskell
+* day11: Golang
